@@ -96,7 +96,6 @@ acme.xnxx.com 185.88.181.39
 o4.sg.xnxx.com 192.254.124.241
 researcher-data.xnxx.com 195.181.174.6
 cams.xnxx.com 204.8.234.242
-www.pornhub.com
 url.pornhub.com 18.66.122.117
 internal-origin.pornhub.com 31.192.113.223
 pagespeed.pornhub.com 66.254.114.41
@@ -253,7 +252,6 @@ feedback.pornhub.com 104.18.21.58
 form.pornhub.com 136.143.190.199
 testfiltering.pornhub.com 194.164.92.131
 document-review.pornhub.com 199.36.158.100
-www.redtube.com
 cms.redtube.com 66.254.114.136
 api.redtube.com 66.254.114.152
 blog.redtube.com 66.254.114.170
@@ -266,7 +264,7 @@ ht.pornhub.com 216.18.168.30
 img.pornhub.com 216.18.168.84
 i.pornhub.com 216.18.168.123
 help.pornhub.com 216.198.54.11
-ww.redtube.com 66.254.114.238
+www.redtube.com 66.254.114.238
 m.redtube.com 66.254.114.238
 jp.redtube.com 66.254.114.238
 www.redtube.com 66.254.114.238
@@ -295,4 +293,27 @@ help.redtube.com 216.198.54.11
 www.youjizz.com
 www.xhamster.com
 www.spankwire.com
-www.porn.com
+pictures-cdn.porn.com 138.199.57.100
+media.porn.com 152.233.120.16
+pt.porn.com 152.233.120.16
+pl.porn.com 152.233.120.16
+fr.porn.com 152.233.120.16
+se.porn.com 152.233.120.16
+jp.porn.com 152.233.120.16
+cdn-assets.porn.com 152.233.120.20
+media-small.porn.com 152.233.120.20
+www.porn.com 152.233.120.20
+nl.porn.com 152.233.120.20
+vmedia.porn.com 152.233.120.20
+es.porn.com 152.233.120.25
+assets-origin-ss.porn.com 152.233.120.25
+de.porn.com 152.233.120.25
+live.porn.com 152.233.120.25
+cdn77-cdn.porn.com 152.233.120.25
+it.porn.com 152.233.120.30
+Nairb.porn.com 152.233.120.30
+gay.porn.com 152.233.120.30
+origin.images.porn.com 152.233.120.30
+ru.porn.com 152.233.120.30
+assets-cdn.porn.com 195.181.174.11
+delivery.porn.com 216.18.168.25
