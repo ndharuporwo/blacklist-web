@@ -1,3 +1,4 @@
+xnxx.com
 forum-dev.xnxx.com 10.189.9.110
 dev-multi.xnxx.com 10.189.9.114
 static.xnxx.com 69.55.51.14
@@ -96,6 +97,7 @@ acme.xnxx.com 185.88.181.39
 o4.sg.xnxx.com 192.254.124.241
 researcher-data.xnxx.com 195.181.174.6
 cams.xnxx.com 204.8.234.242
+pornhub.com
 url.pornhub.com 18.66.122.117
 internal-origin.pornhub.com 31.192.113.223
 pagespeed.pornhub.com 66.254.114.41
@@ -294,6 +296,7 @@ www.youjizz.com
 www.xhamster.com
 www.youporn.com
 www.spankwire.com
+porn.com
 pictures-cdn.porn.com 138.199.57.100
 media.porn.com 152.233.120.16
 pt.porn.com 152.233.120.16
