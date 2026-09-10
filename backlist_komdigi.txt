@@ -96,13 +96,6 @@ acme.xnxx.com 185.88.181.39
 o4.sg.xnxx.com 192.254.124.241
 researcher-data.xnxx.com 195.181.174.6
 cams.xnxx.com 204.8.234.242
-data-cdn.multi.xnxx.com Did not resolve.
-assets.multi.xnxx.com Did not resolve.
-ej.www.xnxx.com Did not resolve.
-cdn.multi.xnxx.com Did not resolve.
-datas.multi.xnxx.com Did not resolve.
-eg.www.xnxx.com Did not resolve.
-assets-origin.multi.xnxx.com Did not resolve.
 url.pornhub.com 18.66.122.117
 internal-origin.pornhub.com 31.192.113.223
 pagespeed.pornhub.com 66.254.114.41
