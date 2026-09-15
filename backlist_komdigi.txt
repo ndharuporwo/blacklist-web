@@ -1,4 +1,3 @@
-xnxx.com
 forum-dev.xnxx.com
 dev-multi.xnxx.com
 static.xnxx.com
@@ -6,6 +5,7 @@ rev.xnxx.com
 ns1.xnxx.com
 ns2.xnxx.com
 stories.xnxx.com
+forums.xnxx.com
 forum.xnxx.com
 multi.xnxx.com
 pics.xnxx.com
@@ -30,6 +30,7 @@ wqw.xnxx.com
 _games.xnxx.com
 gold.xnxx.com
 xxx.xnxx.com
+152.233.100.4
 forum-dev2.xnxx.com
 review.xnxx.com
 sql.xnxx.com
@@ -97,6 +98,13 @@ acme.xnxx.com
 o4.sg.xnxx.com
 researcher-data.xnxx.com
 cams.xnxx.com
+data-cdn.multi.xnxx.com
+assets.multi.xnxx.com
+ej.www.xnxx.com
+cdn.multi.xnxx.com
+datas.multi.xnxx.com
+eg.www.xnxx.com
+assets-origin.multi.xnxx.com
 pornhub.com
 url.pornhub.com
 internal-origin.pornhub.com
