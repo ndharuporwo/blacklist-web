@@ -312,12 +312,14 @@ pl.porn.com
 fr.porn.com
 se.porn.com
 jp.porn.com
+a.magsrv.com
 cdn-assets.porn.com
 media-small.porn.com
 www.porn.com
 nl.porn.com
 vmedia.porn.com
 es.porn.com
+track.erogames.com
 assets-origin-ss.porn.com
 de.porn.com
 live.porn.com
