@@ -8,6 +8,7 @@ stories.xnxx.com
 forums.xnxx.com
 forum.xnxx.com
 multi.xnxx.com
+thumb.live.mmcdn.com
 pics.xnxx.com
 aca0.xnxx.com
 games-direct.xnxx.com
@@ -50,7 +51,11 @@ links.validation.xnxx.com
 vc.xnxx.com
 27c866fce65a8b.xnxx.com
 games.xnxx.com
+a.pemsrv.com
+thumb-cdn77.xnxx-cdn.com
+assets-cdn77.xnxx-cdn.com
 xenforo.xnxx.com
+thumbs-gcore.xnxx-cdn.com
 test.xnxx.com
 games-auth.xnxx.com
 forums-clone.xnxx.com
