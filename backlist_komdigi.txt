@@ -17,6 +17,7 @@ pt.xnxx.com
 63190c76614031.xnxx.com
 cp-test.xnxx.com
 m.xnxx.com
+xnxx.com.
 trade.xnxx.com
 mobile.xnxx.com
 mwww.xnxx.com
@@ -110,7 +111,7 @@ datas.multi.xnxx.com
 eg.www.xnxx.com
 assets-origin.multi.xnxx.com
 unn-152-233-100-4.wgcz.net
-pornhub.com
+pornhub.com.
 url.pornhub.com
 internal-origin.pornhub.com
 pagespeed.pornhub.com
@@ -309,7 +310,7 @@ youjizz.com
 xhamster.com
 youporn.com
 spankwire.com
-porn.com
+porn.com.
 pictures-cdn.porn.com
 media.porn.com
 pt.porn.com
