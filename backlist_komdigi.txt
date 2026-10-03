@@ -17,7 +17,7 @@ pt.xnxx.com
 63190c76614031.xnxx.com
 cp-test.xnxx.com
 m.xnxx.com
-xnxx.com.
+xnxx.com
 trade.xnxx.com
 mobile.xnxx.com
 mwww.xnxx.com
@@ -87,6 +87,8 @@ jokes.xnxx.com
 videos.xnxx.com
 _stories.xnxx.com
 nforum.xnxx.com
+ns1.wgcz.net
+hostmaster.wgcz.net
 gui.m.xnxx.com
 poems.xnxx.com
 ah-xvdev.xnxx.com
@@ -341,3 +343,5 @@ ru.porn.com
 assets-cdn.porn.com
 delivery.porn.com
 unn-152-233-120-28.wgcz.net
+ns.anycastns1.org
+romel.romel.org.ua
